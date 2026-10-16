@@ -1,4 +1,3 @@
-[kodexa.js](https://github.com/user-attachments/files/33581344/kodexa.js)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
